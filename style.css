@@ -1,0 +1,30 @@
+.sidebar {
+    top: 0;
+    left: 0;
+    width: 240px;
+    height: 100%;
+    background-color: #f8f9fa;
+    padding: 20px;
+  }
+ .list-unstyled li a{
+    margin: 5.5px;
+    transition: 0.5ms;
+
+ }
+ .list-unstyled li a:hover{
+    font-weight: bold;
+    transition: 0.5ms;
+ }
+ /* Estilos personalizados */
+ .comment-section {
+   margin-top: 20px;
+ }
+ .comment-box {
+   background-color: #f8f9fa;
+   padding: 20px;
+   border-radius: 8px;
+ }
+ .comment-box .user-icon {
+   font-size: 24px;
+   margin-right: 10px;
+ }
